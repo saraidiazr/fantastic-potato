@@ -84,7 +84,7 @@
 <h4>4. Optimization & Refinement <em>— Continuous Development & Modernization</em></h4>
 <ul>
 <li>Migrated to serverless, automated pipelines</li>
-<li>Took over vendor's Tableau service, transitioned ownership</li>
+<li>Handed over operational pipeline management to the newly onboarded internal squad, and took over ownership of the external vendor's service (Tableau) due to company strategic shift.</li>
 </ul>
 </div>
 </div>
