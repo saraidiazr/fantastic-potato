@@ -77,7 +77,7 @@
 <h4>3. Scale & Squad Transition <em>— Engineering Scale & Handover</em></h4>
 <ul>
 <li>Established continuous dev cycle for data quality</li>
-<li>Onboarded & led a squad of up to 4 Data Engineers</li>
+<li>Onboarded & product led a squad of up to 4 Data Engineers</li>
 </ul>
 </div>
 <div class="card">
